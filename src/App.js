@@ -6,15 +6,15 @@ import MovieCard from './MovieCard';
 const API_URL = 'http://www.omdbapi.com?apikey=1afba1c3';
 
 
-const movie1 = 
-  {
-    "Title": "Batman v Superman: Dawn of Justice",
-    "Year": "2016",
-    "imdbID": "tt2975590",
-    "Type": "movie",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BYThjYzcyYzItNTVjNy00NDk0LTgwMWQtYjMwNmNlNWJhMzMyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
-  }
-
+// const movie1 = [
+//   {
+//     "Title": "Batman v Superman: Dawn of Justice",
+//     "Year": "2016",
+//     "imdbID": "tt2975590",
+//     "Type": "movie",
+//     "Poster": "https://m.media-amazon.com/images/M/MV5BYThjYzcyYzItNTVjNy00NDk0LTgwMWQtYjMwNmNlNWJhMzMyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+//   }
+// ]
 
 
 
