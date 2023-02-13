@@ -3,7 +3,7 @@ import {useState, useEffect} from 'react';
 import SearchIcon from './search.svg'
 import MovieCard from './MovieCard';
 
-const API_URL = 'http://www.omdbapi.com?apikey=1afba1c3';
+const API_URL = 'https://www.omdbapi.com?apikey=1afba1c3';
 
 
 // const movie1 = [
@@ -61,7 +61,7 @@ const App = () => {
         ) : (
           <div className='empty'>
             <h2>No Movies Found</h2>
-            <br/>
+            <br/><p>    </p>
             <h2>Search for a Movie</h2>
           </div>
         )
